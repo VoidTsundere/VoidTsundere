@@ -1,4 +1,5 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/656342005145316d2573d394?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/656342005145316d2573d394?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
 **VoidTsundere/VoidTsundere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
