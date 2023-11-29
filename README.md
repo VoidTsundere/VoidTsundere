@@ -1,5 +1,5 @@
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/656342005145316d2573d394?variant=dark" alt="roadmap.sh"/></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidTsundere&title_color=ffffff&text_color=dcddde)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidTsundere&title_color=ffffff&text_color=ffffff&bg_color=0c1117)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **VoidTsundere/VoidTsundere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
